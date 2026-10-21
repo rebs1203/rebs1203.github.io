@@ -1,0 +1,76 @@
+.header {
+  width: 100%;
+  background-image: url('https://vermelho.org.br/wp-content/uploads/2024/11/bandeira-do-brasil.jpg');
+  background-size: cover;
+  background-position: center; 
+  padding-top: 20%;
+  padding-bottom: 3%;
+}
+
+.header-content {
+  color: white;
+  padding: 20px;
+  background-color: rgba(187, 0, 0, 0.5);
+  display: inline-block;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 10px 0 0 0;
+}
+
+.info-section {
+  border: 3px red dashed;
+  margin: 50px;
+  padding: 20px;
+  background-color: #f4e585;
+  border-radius: 8px;
+  line-height: 1.6;
+  font-size: 1.1em;
+}
+
+.table-title {
+  font-size: 1.5em;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.content {
+  margin: 50px;
+  padding: 20px;
+  line-height: 1.6;
+  font-size: 1.1em;
+}
+
+.title-one {
+  font-size: 1.5em;
+}
+
+.block1-section1 {
+  border: 3px green dashed;
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #d4edda;
+  border-radius: 8px;
+}
+
+.imprensa-section {
+  border: 3px blue dashed;
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #cce5ff;
+  border-radius: 8px;
+}
+
+.levantamento-section {
+  border: 3px yellow dashed;
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #fff3cd;
+  border-radius: 8px;
+}
